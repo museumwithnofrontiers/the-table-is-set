@@ -1,0 +1,29 @@
+[
+  {
+    "image": "chrome/thematic_gallery/thg_galleries/52/logo/35/1.jpg",
+    "alt": "theTableIsSet.sponsors.logo35",
+    "href": "https://www.unaoc.org/",
+    "category": "Footer 1",
+    "category_id": 1,
+    "visible": true,
+    "display_order": 1
+  },
+  {
+    "image": "chrome/thematic_gallery/thg_galleries/52/logo/39/1.jpg",
+    "alt": "theTableIsSet.sponsors.logo39",
+    "href": "https://www.ktb.gov.tr/?_Dil=2",
+    "category": "Footer 2",
+    "category_id": 2,
+    "visible": true,
+    "display_order": 2
+  },
+  {
+    "image": "chrome/thematic_gallery/thg_galleries/52/logo/40/1.jpg",
+    "alt": "theTableIsSet.sponsors.logo40",
+    "href": "https://www.smb.museum/home/",
+    "category": "Footer 2",
+    "category_id": 2,
+    "visible": true,
+    "display_order": 2
+  }
+]
