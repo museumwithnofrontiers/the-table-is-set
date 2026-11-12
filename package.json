@@ -15,7 +15,7 @@
     "namespace": "theTableIsSet"
   },
   "dependencies": {
-    "@museumwnf/the-table-is-set-data": "^1.0.22",
+    "@museumwnf/the-table-is-set-data": "^1.0.23",
     "@museumwnf/viewer-core": "^2.21.0",
     "@museumwnf/viewer-i18n": "^6.16.0",
     "@museumwnf/viewer-layout": "^3.72.1",
